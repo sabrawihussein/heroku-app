@@ -1,2 +1,1 @@
-# heroku-app
-ML model deployment on Heroku 
+# ML Model Deployment on Heroku
